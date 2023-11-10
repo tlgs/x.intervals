@@ -1,3 +1,7 @@
 # Extending Intervals.icu
 
-Collections of scripts for activity fields and streams.
+Collections of scripts to extend Intervals.icu:
+
+  - activity fields
+  - activity streams
+  - interval fields
